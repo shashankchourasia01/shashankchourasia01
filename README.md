@@ -1,5 +1,5 @@
 #  About Me:
-Hi, I’m Shashank Kumar Chourasia — a Full Stack Developer with a strong focus on frontend and backend development. I enjoy building scalable web applications using React, Next.js, and the MERN stack, and I love integrating real-world features like secure authentication, payments, and AI-powered workflows. I’m always curious to learn, improve system performance, and turn ideas into clean, user-friendly products.
+Hi, I’m Shashank Kuma Chourasia — a Full Stack Developer with a strong focus on frontend and backend development. I enjoy building scalable web applications using React, Next.js, and the MERN stack, and I love integrating real-world features like secure authentication, payments, and AI-powered workflows. I’m always curious to learn, improve system performance, and turn ideas into clean, user-friendly products.
 
 
 ## 🌐 Socials:
